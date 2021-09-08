@@ -1,0 +1,31 @@
+[CONTROLS]
+This game is played by using your mouse.
+To drop a token, click on the button labeled, "Place Here" above the column.
+You can click other buttons with your mouse as well to access functionality like resetting or ending the game, undoing (only) one move, or viewing high scores.
+Please refer to the Game Manual for further information on using this application.
+[OBJECTIVES]
+The user wins the game by aligning four tokens in a row.
+You can align four tokens in a row, in a column or diagonally.
+You align four tokens by placing them side by side.
+[CREDITS]
+This game was developed by:
+Alex Chen, Rehan Anjum,
+Akhilesh Bandaru and Alireza Behjoee
+
+[IMAGE SOURCES]
+Button Backgrounds:
+Tartila. (2020, July 16). Game buttons gaming options panel menu interface vector image 
+	on vectorstock. VectorStock. https://www.vectorstock.com/royalty-free-vector/game-buttons
+	-gaming-options-panel-menu-interface-vector-32263769. 
+
+Menu Background:
+wikiHow Staff. (2021, June 29). How to win at connect 4. wikiHow. https://www.wikihow.com/Win-at
+	-Connect-4. 
+
+Connect 4 Logo:
+www.logolynx.com. (n.d.). Connect 4 Logos. Connect 4 logos. https://www.logolynx.com/topic/connect+4. 
+
+Game Over logo:
+PngItem.com. (n.d.). Game over png - game over png yellow, transparent png , transparent png 
+	image - pngitem. PNGitem.com. https://www.pngitem.com/middle/ThJJomR_game-over-png-game-over
+	-png-yellow-transparent/. 
