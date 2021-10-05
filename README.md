@@ -3,7 +3,7 @@
 Created for the ICS4UE Culminating Task in August 2021.
 
 Developed by:
-[Rehan Anjum](https://www.github.com/rehan-anjum/), [Alex Chen](https://github.com/GenericAsianGamer/), Alireza Behjoee and Akhilesh Bandaru
+[Rehan Anjum](https://www.github.com/rehan-anjum/), [Alex Chen](https://github.com/bennett-the-bard), Alireza Behjoee and Akhilesh Bandaru
 
 Created using the NetBeans IDE
 
